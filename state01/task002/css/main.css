@@ -1,0 +1,59 @@
+body {
+	padding: 0;
+    margin: 0;
+	background-color: rgb(222, 222, 222);
+	font-family: "Microsoft YaHei UI", sans-serif;
+}
+
+#header {
+	font-size: 20px;
+	height: 40pt;
+	background-color: black;
+	color: white;
+}
+
+#header a {
+    text-decoration: none;
+    color: white;
+}
+
+
+#logo {
+	position: absolute;
+	top: 13px;
+	left: 40px;
+	margin: auto;
+}
+
+#header_nav {
+	position: absolute;
+	top: 13px;
+	right: 40px;
+}
+
+.content_block {
+	margin: 20px auto;
+	padding: 10px;
+	background-color: white;
+	border: thin solid rgb(203, 203, 203);
+	width: 96%;
+}
+
+.content_block p a {
+	color: blue;
+	text-decoration: underline;
+}
+
+#side_block {
+	text-align: center;
+}
+
+#footer{
+	font-size: 20px;
+	height: 45pt;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding-top: 3px;
+}
+
