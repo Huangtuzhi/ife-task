@@ -1,5 +1,7 @@
 # ife-task
 
+[百度前端学院](http://ife.baidu.com/) 2016 春季班。
+
 ## tasks
 
 任务一：零基础HTML编码
