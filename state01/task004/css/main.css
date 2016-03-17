@@ -1,0 +1,36 @@
+body {
+	padding: 0px;
+    margin: 0;
+	font-family: "Microsoft YaHei UI", sans-serif;
+}
+
+#container {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	background-color: #ccc;
+	height: 200px;
+	width: 400px;
+	margin-left: -200px;
+	margin-top: -100px;
+}
+
+#UpConner {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background-color: #fc0;
+	height: 50px;
+	width: 50px;
+	border-radius: 0 0 50px 0; 
+}
+
+#DownConner {
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	background-color: #fc0;
+	height: 50px;
+	width: 50px;
+	border-radius: 50px 0 0 0;
+}
