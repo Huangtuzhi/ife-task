@@ -23,3 +23,7 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 任务五：零基础HTML及CSS编码（二）
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state01/task005/index.html
+
+任务六：通过HTML及CSS模拟报纸排版
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state01/task006/index.html
