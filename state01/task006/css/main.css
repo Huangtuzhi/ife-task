@@ -1,0 +1,110 @@
+body {
+	padding: 0;
+    margin: 0;
+	background-image: url(../img/background.jpg);
+	font-family: "Microsoft YaHei UI", sans-serif;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+}
+
+#container {
+	height: 1386px;
+	width: 980px;
+	margin: 0 auto;
+}
+
+#header {
+	width:892px;
+	border-bottom: 2px solid #938e8c;
+	margin-bottom: 34px;
+}
+
+#header a {
+	display: inline-block;
+	width: 110px;
+	height: 61px;
+	color: #ffffff;
+	background-color: #d45d5c;
+	text-align: center;
+	line-height: 95px;
+}
+
+#header a {
+	text-decoration: none;
+}
+
+
+#header span {
+	font-size: 12px;
+	color: #d45d5c;
+	margin-left: 730px;
+}
+
+.mod1 img {
+	height: 301px;
+	width: 641px;
+}
+
+.mod1 div {
+	float: right;
+	border-top: 2px solid #cc8091;
+	width: 203px;
+	margin-right: 90px;
+}
+
+.mod1 h2 {
+	font-size: 24px;
+	color: #000000;
+	font-family: "微软雅黑";
+	line-height: 10px;
+	text-decoration: underline;
+	/*margin-bottom: 10px*/
+}
+
+.mod1>div>h2+p,
+.mod1>div>h2+p+p {
+	font-size: 12px;
+	color: #676767;
+	font-family: "楷体";
+	font-style: italic;
+}
+
+.mod1>div>h2+p {
+	margin-top: -11px;
+}
+
+.mod1>div>h2+p+p+p {
+	font-size: 116px;
+	color: #75b86b;
+	font-family: "微软雅黑";
+	margin-top: -23px;
+}
+
+.mod1>div>span {
+	font-size: 55px;
+	color: #cc8091;
+	font-family: "微软雅黑";
+}
+
+.mod1>div>span>span {
+	font-size: 21px;
+	color: #cc8091;
+	font-family: "微软雅黑";
+	position: relative;
+	top: -11px;
+	left: 5px;
+}
+
+.mod1>div>span>p {
+	font-size: 12px;
+	color: #cc8091;
+	font-family: "微软雅黑";
+	position: relative;
+	top: -15px;
+	left: 5px;
+}
+
+
