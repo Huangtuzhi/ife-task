@@ -27,3 +27,7 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 任务六：通过HTML及CSS模拟报纸排版
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state01/task006/index.html
+
+任务八：响应式网格（栅格化）布局
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state01/task008/index.html
