@@ -31,3 +31,7 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 任务八：响应式网格（栅格化）布局
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state01/task008/index.html
+
+任务十：Flexbox 布局练习
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state01/task010/index.html
