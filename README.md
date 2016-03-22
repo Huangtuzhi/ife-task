@@ -35,3 +35,7 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 任务十：Flexbox 布局练习
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state01/task010/index.html
+
+任务十一：移动Web页面布局实践
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state01/task011/index.html
