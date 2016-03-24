@@ -42,4 +42,6 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 
 ##第二阶段任务 JavaScript
 
+任务十三：零基础JavaScript编码（一）
+
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task013/index.html
