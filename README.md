@@ -2,7 +2,7 @@
 
 [百度前端学院](http://ife.baidu.com/) 2016 春季班。
 
-## tasks
+##第一阶段任务 CSS/HTML
 
 任务一：零基础HTML编码
 
@@ -39,3 +39,7 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 任务十一：移动Web页面布局实践
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state01/task011/index.html
+
+##第二阶段任务 JavaScript
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task013/index.html
