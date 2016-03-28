@@ -56,4 +56,4 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 
 任务十六：零基础JavaScript编码（四）
 
-http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task016/index.html
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task016/task.html
