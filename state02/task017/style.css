@@ -1,0 +1,54 @@
+fieldset {
+    width: 1200px;
+    margin: 0 auto;
+    border-radius: 13px;
+}
+
+legend {
+    margin: 0 auto;
+}
+
+label {
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border: 1px solid #16324a;
+    border-radius: 50%;
+    cursor: pointer;
+    line-height: 40px;
+}
+
+label input {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+
+#aqi-chart-wrap {
+    width: 1200px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+#city-region {
+    float: right;
+    margin-right: 30px;
+}
+
+#city-select {
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: #ffffff;
+    outline: none;
+    width: 100px;
+    line-height: 25px;
+    margin-top: 10px;
+    padding: 0 30px;
+    font-size: .75rem;
+    letter-spacing: 10px;
+}
