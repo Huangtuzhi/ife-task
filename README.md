@@ -42,26 +42,30 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 
 ##第二阶段任务 JavaScript
 
-任务十三：零基础JavaScript编码（一）
+任务十三：零基础JavaScript编码（一）基本知识
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task013/index.html
 
-任务十四：零基础JavaScript编码（二）
+任务十四：零基础JavaScript编码（二）基本 DOM 操作
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task014/index.html
 
-任务十五：零基础JavaScript编码（三）
+任务十五：零基础JavaScript编码（三）数组操作
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task015/index.html
 
-任务十六：零基础JavaScript编码（四）
+任务十六：零基础JavaScript编码（四）事件代理机制和表单验证
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task016/task.html
 
-任务十七：零基础JavaScript编码（五）
+任务十七：零基础JavaScript编码（五）DOM 实现一个柱状图图表
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task017/task.html
 
-任务十八：基础JavaScript练习（一）
+任务十八：基础JavaScript练习（一）模拟队列实现并可视化
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task018/task.html
+
+任务十九：基础JavaScript练习（二）排序可视化
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task018/task.html
