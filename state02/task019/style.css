@@ -1,0 +1,32 @@
+form {
+  display: inline;
+}
+
+#show-box button {
+    border: none;
+}
+
+.outer {
+    width: 25px;
+    height: 150px;
+    float: left;
+    position: relative;
+}
+
+.bar {
+    width: 20px;
+    /*background-color: #ff0000;*/
+    margin: 1px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.queue-ele {
+    margin: 10px;
+    padding: 20px;
+    margin: 0px;
+    text-align: center;
+    background-color: red;
+    height: 80px;
+    width: 80px;
+}
