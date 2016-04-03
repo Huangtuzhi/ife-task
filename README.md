@@ -69,3 +69,7 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 任务十九：基础JavaScript练习（二）排序可视化
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task019/task.html
+
+任务二十：基础JavaScript练习（三）数组字符串操作
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task020/task.html
