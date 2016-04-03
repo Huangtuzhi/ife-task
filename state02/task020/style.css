@@ -1,0 +1,30 @@
+form {
+  display: inline;
+}
+
+/*#show-box {
+    height: 80px;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}*/
+
+#show-box button {
+    position: relative;
+    float: left;
+    border: none;
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+}
+
+.queue-ele {
+    margin: 10px;
+    padding: 20px;
+    margin: 0px;
+    text-align: center;
+    background-color: red;
+    height: 80px;
+    width: 80px;
+}
