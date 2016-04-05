@@ -1,0 +1,36 @@
+.tag {
+    /*position: relative;*/
+    float: left;
+    height: 30px;
+    margin: 10px;
+    background-color: green;
+}
+
+.clearfix:after { 
+content: "."; 
+display: block; 
+height: 0; 
+clear: both; 
+visibility: hidden; 
+} 
+
+button {
+    border: none;
+}
+
+#first-box button:hover {
+    background-color: red;
+    cursor: pointer;
+}
+
+#first-box button:hover:before {
+    content: "点击删除";
+}
+
+#first-box, #second-box {
+    margin: 10px;
+}
+
+#assure-button {
+    margin: 10px;
+}
