@@ -73,3 +73,7 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 任务二十：基础JavaScript练习（三）数组字符串操作
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task020/task.html
+
+任务二十一：基础JavaScript练习（四）类和封装
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task021/task.html
