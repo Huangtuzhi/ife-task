@@ -77,3 +77,7 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 任务二十一：基础JavaScript练习（四）类和封装
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task021/task.html
+
+任务二十二：JavaScript和树（一）DOM 树的遍历
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task022/task.html
