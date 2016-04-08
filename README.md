@@ -78,6 +78,10 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task021/task.html
 
-任务二十二：JavaScript和树（一）DOM 树的遍历
+任务二十二：JavaScript和树（一）DOM 二叉树的遍历
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task022/task.html
+
+任务二十三：JavaScript和树（二）DOM 多叉树查询
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task023/task.html
