@@ -85,3 +85,7 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 任务二十三：JavaScript和树（二）DOM 多叉树查询
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task023/task.html
+
+任务二十四：JavaScript和树（三）DOM 元素增删查操作
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task024/task.html
