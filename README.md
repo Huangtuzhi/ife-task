@@ -91,3 +91,5 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task024/task.html
 
 任务二十五：JavaScript和树（四）DOM 节点隐藏和展开
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task025/task.html
