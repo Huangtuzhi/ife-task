@@ -94,6 +94,6 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task025/task.html
 
-任务二十六：行星与飞船（一）
+任务二十六：行星与飞船（一） 设计模式
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task026/task.html
