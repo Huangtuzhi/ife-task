@@ -1,0 +1,92 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: grey;
+}
+
+#universe {
+  position: relative;
+  width: 1200px;
+  height: 600px;
+  margin: auto;
+  background-color: black;
+}
+
+#orbit {
+  position: absolute;
+  left: 50%;
+  top: 50%; 
+  margin-left: -250px;
+  margin-top: -250px;
+  width: 500px;
+  height: 500px;
+  border-radius: 250px;
+  border:1px dotted green;
+}
+
+#planet {
+  position: absolute;
+  left: 50%;
+  top: 50%; 
+  margin-left: -150px;
+  margin-top: -150px;
+  width: 300px;
+  height: 300px;
+  background-color: #0000FF;
+  border-radius: 150px;
+}
+
+.spaceship {
+  position: absolute;
+  width: 65px;
+  height: 20px;
+  left: 711px;
+  top: 300px;
+  background-color: red;
+  border-radius: 12px;
+  text-align:center;
+}
+
+.ship-pad {
+  font-size: 10px;
+}
+
+#console-panel {
+  width: 1200px;
+  height: 100px;
+  margin: 10px auto;
+  background-color: grey;
+  border:1px solid green;
+}
+
+#control-board {
+  margin: 2px;
+  width: 200px;
+  height: 92px;
+  border:1px solid green;
+  float: left;
+  background-color: grey;
+}
+
+.butt {
+  font-size: 12px;
+  margin: 1px;
+  background: green;
+  border: 1px solid grey;
+  border-radius: 3px;
+}
+
+#console-board {
+  margin: 2px;
+  width: 980px;
+  height: 92px;
+  background-color: black;
+  float: left;
+  border:1px solid grey;
+  color: green;
+  overflow-y: scroll;
+}
+
+.command-log {
+  margin: 1px;
+}
