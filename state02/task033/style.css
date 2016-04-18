@@ -1,0 +1,90 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+table {
+    margin: 0 auto;
+}
+
+td {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+tr:nth-child(n+2)>td:nth-child(n+2) {
+    border: 1px solid #cccccc;
+/*    margin: -1px;
+    position: relative;
+    left: 0px;*/
+}
+
+#console {
+  margin: 25px auto;
+  width: 230px;
+}
+
+#box{
+  width: 40px;
+  height: 40px;
+}
+
+#box #front-0 {
+  height: 10px;
+  width: 40px;
+  background-color: blue;
+}
+
+#box #back-0 {
+  height: 30px;
+  width: 40px;
+  background-color: red;
+}
+
+#box #front-90 {
+  height: 40px;
+  width: 30px;
+  float: left;
+  background-color: red;
+}
+
+#box #back-90 {
+  height: 40px;
+  width: 10px;
+  float: left;
+  background-color: blue;
+}
+
+#box #front-180 {
+  height: 30px;
+  width: 40px;
+  background-color: red;
+}
+
+#box #back-180 {
+  height: 10px;
+  width: 40px;
+  background-color: blue;
+}
+
+#box #front-270 {
+  height: 40px;
+  width: 10px;
+  float: left;
+  background-color: blue;
+}
+
+#box #back-270 {
+  height: 40px;
+  width: 30px;
+  float: left;
+  background-color: red;
+}
+
+#tips {
+  width: 250px;
+  margin: 10px auto;
+  padding: 10px;
+  border: 1px dotted green;
+}
