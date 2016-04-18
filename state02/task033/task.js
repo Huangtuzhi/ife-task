@@ -78,6 +78,7 @@ function execCommand() {
     case "TURN BACK":
     boxInfo.direction += 180;
     if (boxInfo.direction == 360) boxInfo.direction = 0;
+    if (boxInfo.direction == 450) boxInfo.direction = 90;
     moveBox(boxInfo.xAsis, boxInfo.yAsis);
     break;
 
