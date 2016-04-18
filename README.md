@@ -97,3 +97,7 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 任务二十六：行星与飞船（一） 设计模式
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task026/task.html
+
+任务三十三：听指令的小方块（一） 复杂 UI 和建模
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task033/task.html
