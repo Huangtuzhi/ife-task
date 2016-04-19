@@ -101,3 +101,7 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 任务三十三：听指令的小方块（一） 复杂 UI 和建模
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task033/task.html
+
+任务三十四：听指令的小方块（二）
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task034/task.html
