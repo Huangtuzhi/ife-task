@@ -1,0 +1,194 @@
+<!DOCTYPE>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>听指令的小方块</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div id="grid">
+        <table border="0" cellspacing="0" cellpadding="0" id="Table">
+            <tr>
+                <td></td>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>4</td>
+                <td>5</td>
+                <td>6</td>
+                <td>7</td>
+                <td>8</td>
+                <td>9</td>
+                <td>10</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>
+                    <div id="box">
+                        <div id="front-0">
+                        </div>
+                        <div id="back-0">
+                        </div>
+                    </div>
+                </td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+    </div>
+
+    <div id="console">
+    <div>
+        <button id="execButton">执行</button>
+        <button id="freshButton">Refresh</button>
+    </div>
+    <!-- <div id="left"></div> -->
+    <textarea rows="5" id="commandField">TURN BACK
+GO 3</textarea>
+    </div>
+
+    <div id="tips">
+    <p>支持的命令列表
+    <p>GO 3：向蓝边所面向的方向前进3格
+    <p>TURN LEFT：向左转（逆时针90度）
+    <p>TURN RIGHT：向右转（顺时针90度）
+    <p>TURN BACK：向右转（180度）
+    <p>TRA LEF 3：向屏幕左侧移动3格，方向不变
+    <p>TRA TOP 3：向屏幕上侧移动3格，方向不变
+    <p>TRA RIG 3：向屏幕右侧移动3格，方向不变
+    <p>TRA BOT 3：向屏幕下侧移动3格，方向不变
+    <p>MOV LEF 3：转向屏幕左侧，向左侧移动3格
+    <p>MOV TOP 3：转向屏幕上面，向上面移动3格
+    <p>MOV RIG 3：转向屏幕右侧，向右侧移动3格
+    <p>MOV BOT 3：转向屏幕下面，向下面移动3格
+    </div>
+    <script type="text/Javascript" src="task.js"></script>
+</body>
+
+</html>
