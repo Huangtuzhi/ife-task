@@ -102,6 +102,10 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task033/task.html
 
-任务三十四：听指令的小方块（二）
+任务三十四：听指令的小方块（二） 复杂 UI 和建模
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task034/task.html
+
+任务三十五：听指令的小方块（三） 逻辑解析
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task035/task.html
