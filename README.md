@@ -109,3 +109,7 @@ http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master
 任务三十五：听指令的小方块（三） 命令解析
 
 http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task035/task.html
+
+任务三十六：听指令的小方块（四） 一个 AI——寻路算法
+
+http://htmlpreview.github.io/?https://github.com/Huangtuzhi/ife-task/blob/master/state02/task035/task.html
